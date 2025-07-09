@@ -1,0 +1,6 @@
+@SolarCalculator.Service_HostAddress = http://localhost:5229
+
+GET {{SolarCalculator.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
