@@ -30,7 +30,7 @@ Basic understanding of C# and object-oriented programming (classes, inheritance,
 
 * You need to have the .NET 8 SDK or .NET 9 SDK installed as well as the code editor of your choice (Visual Studio 2022 Community Edition or Visual Studio Code are both good (free) choices).  
 
-* You will also need the lab files with the code and instructions. These can be obtained from this repository (in the Labs folder) or from the separate "Labs Only" repository noted below.
+* You will also need the lab files with the code and instructions. These can be obtained from this repository (in the Labs folder).
 
 ### Links:
 
@@ -43,10 +43,6 @@ Note: Install the "ASP.NET and web development" workload for the labs and sample
 
 * Visual Studio Code  
 [https://code.visualstudio.com/download](https://code.visualstudio.com/download)  
-
-* Labs Only repository  
-[https://github.com/jeremybytes/vslive2024-orlando-workshop-labs](https://github.com/jeremybytes/vslive2024-orlando-workshop-labs)  
-A repository with just the lab files for this workshop, so you do not need to download this entire repository.  
 
 
 ## Hands-on Labs
